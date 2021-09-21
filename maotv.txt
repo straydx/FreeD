@@ -408,6 +408,30 @@
             "categories": [                
             ]
         },
+         {
+            "key": "佳丽",
+            "name": "佳丽",
+            "type": 0,
+            "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
+            "categories": [                
+            ]
+        },
+ {
+            "key": "av888",
+            "name": "av888",
+            "type": 0,
+            "api": "http://m.7777688.com/inc/api.php",
+            "categories": [                
+            ]
+        },
+ {
+            "key": "1024",
+            "name": "1024",
+            "type": 0,
+            "api": "https://www.1024nf.com/api.php/provide/vod/at/xml",
+            "categories": [                
+            ]
+        },
         {
             "key": "播放吧",
             "name": "播放吧",
