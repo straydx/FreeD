@@ -25,18 +25,6 @@
             "playUrl": "",
             "categories":[]
         },
-        {
-            "key": "BL视频",
-            "name": "BL视频",
-            "type": 0, {
-    "key": "csp_Aidi",
-    "name": "爱迪(爬虫)",
-    "type": 3,
-    "api": "csp_Aidi",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-    },  
     {
     "key": "csp_Enlienli",
     "name": "嗯哩嗯哩(爬虫)",
@@ -100,10 +88,6 @@
   "quickSearch": 0,
   "filterable": 1
 },
-            "api": "https://bljiex.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories":[]
-        },
         {
             "key": "神马影院",
             "name": "神马影院",
