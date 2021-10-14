@@ -265,6 +265,165 @@
             "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
             "playUrl": ""
         },
+         {
+            "key": "TV盒",
+            "name": "TV盒",
+            "type": 0,
+            "api": "http://cms.tvbox543.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+         {
+            "key": "佳丽",
+            "name": "佳丽",
+            "type": 0,
+            "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
+            "categories": [                
+            ]
+        },
+ {
+            "key": "av888",
+            "name": "av888",
+            "type": 0,
+            "api": "http://m.7777688.com/inc/api.php",
+            "categories": [                
+            ]
+        },
+ {
+            "key": "1024",
+            "name": "1024",
+            "type": 0,
+            "api": "https://www.1024nf.com/api.php/provide/vod/at/xml",
+            "categories": [                
+            ]
+        },
+                {
+            "key": "大地",
+            "name": "大地",
+            "type": 0,
+            "api": "https://dadiapi.com/api.php",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "老鸭",
+            "name": "老鸭",
+            "type": 0,
+            "api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "鲨鱼",
+            "name": "鲨鱼",
+            "type": 0,
+            "api": "http://shayuapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "炮台",
+            "name": "炮台",
+            "type": 0,
+            "api": "http://ptcj.ptzycj.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "番号",
+            "name": "番号",
+            "type": 0,
+            "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "环亚资源",
+            "name": "环亚资源",
+            "type": 0,
+            "api": "http://wmcj8.com/inc/sapi.php",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "博天堂",
+            "name": "博天堂",
+            "type": 0,
+            "api": "http://bttcj.com/inc/sapi.php",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "速度",
+            "name": "速度资源",
+            "type": 0,
+            "api": "http://www.ggmmzy.com:9999/inc/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "花椒",
+            "name": "花椒",
+            "type": 0,
+            "api": "https://cj.apihjzy.com/inc/api.php",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "乐播",
+            "name": "乐播",
+            "type": 0,
+            "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "优果",
+            "name": "优果",
+            "type": 0,
+            "api": "https://www.ugzyz5.com/inc/zyapimac.php",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "苍天资源",
+            "name": "苍天资源",
+            "type": 0,
+            "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "快活资源",
+            "name": "快活资源",
+            "type": 0,
+            "api": "https://www.khzywapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+        {
+            "key": "77资源",
+            "name": "77资源",
+            "type": 0,
+            "api": "https://www.77zy.vip/inc/api.php",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
         {
             "key": "飞鱼资源",
             "name": "飞鱼资源",
