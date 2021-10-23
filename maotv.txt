@@ -1403,7 +1403,7 @@
             "searchable":1,
             "quickSearch":0,
             "ext":"追影兔"
-        }
+        },
          {"key": "*水蜜桃","name": "*水蜜桃","type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","playUrl":"","categories": []},
 {"key": "*玖玖资源","name": "*玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist","playUrl":"","categories": []},
 {"key": "*BB资源","name": "*BB资源","type": 0,"api": "http://bbzy.cc/inc/maccms10.php","playUrl":"","categories": []},
