@@ -635,18 +635,6 @@
             "type": 0,
             "api": "https://www.39kan.com/api.php/provide/vod/at/xml/",
             "playUrl": "http://jx.hao-zsj.cn/vip/?url="
-        }
-    ],
-    "parses": [
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
         },
             {
     "key": "csp_Enlienli",
